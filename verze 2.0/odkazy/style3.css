@@ -1,0 +1,99 @@
+
+body
+{
+
+background-color:silver;
+
+font-family:ArialBlack, Arial,
+	sans-serif;
+text-indent:1em;
+font-size: 20px;
+}
+
+.headline{
+  background-color: rgba(119,136,153,0.75);
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 5em;
+  z-index: 1;
+  width: 100%;
+  position:absolute;
+  top: 0px;
+}
+div.scrollmenu {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: normal;
+    background-color: OliveDrab;
+    overflow: auto;
+    white-space: nowrap;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 2;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    padding: 25px;
+}
+
+div.scrollmenu a:hover {
+    background-color: teal;
+}
+
+.text {
+  font-family: Arial;
+}
+
+
+h1
+{	
+	
+	border-width: 8px;
+	border-color: YellowGreen;
+	border-style: set;
+	color: black;
+	background-color: DarkSeaGreen;
+	font-weight:bold;
+	text-shadow:2px 2px 5px #999
+}
+
+h1
+{
+	font-size: 80px;
+	
+}
+
+
+ul
+{
+	list-style-type: square;
+}
+
+h1
+{
+	font-size: 80px;
+	text-align: center;
+	
+}
+
+h2
+{
+	color: LightGreen;
+	font-style:italic;
+	font-weight:bold;
+	font-size: 2em;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+h3
+{
+	color: red;
+	text-align: center;
+		
+}
+
+
